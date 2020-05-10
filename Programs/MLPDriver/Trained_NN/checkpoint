@@ -1,0 +1,2 @@
+model_checkpoint_path: "MlpRegression3ImagesRoad4.2"
+all_model_checkpoint_paths: "MlpRegression3ImagesRoad4.2"
