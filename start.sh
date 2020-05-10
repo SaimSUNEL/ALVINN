@@ -1,0 +1,2 @@
+export GAZEBO_RESOURCE_PATH=$GAZEBO_RESOURCE_PATH:/home/saim/ALVINN/
+roslaunch ALVINNLIKE.launch
