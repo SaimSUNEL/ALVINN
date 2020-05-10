@@ -1,0 +1,2 @@
+model_checkpoint_path: "HybridRegressionRGB3ImageSingleInputRoad4.2"
+all_model_checkpoint_paths: "HybridRegressionRGB3ImageSingleInputRoad4.2"
