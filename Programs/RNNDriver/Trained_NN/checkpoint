@@ -1,0 +1,2 @@
+model_checkpoint_path: "RNNRegression3ImageRoad4.2"
+all_model_checkpoint_paths: "RNNRegression3ImageRoad4.2"
