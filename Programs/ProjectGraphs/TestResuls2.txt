@@ -1,0 +1,37 @@
+CNNRegression3ImageTest 439.694777
+CNNRegressionRGB3ImageTest 441.124851
+CNNRegressionRGBTest 546.745780
+CNNRegressionTest 520.660967
+
+HybridRegression3ImageTest 170.883352
+
+MLPRegression3ImageTest 471.885466
+MLPRegressionRGB3ImageTest 553.853845
+MLPRegressionRGBTest 553.060130
+MLPRegressionTest 573.221257
+
+RNNRegression3ImageTest 480.077398
+RNNRegressionRGB3ImageTest 555.583116
+RNNRegressionRGBTest 567.018121
+RNNRegressionTest 557.422548
+
+
+Min validation errors :  
+'CNNRegression3Image': 479.65230944752693
+'CNNRegressionRGB3Image': 456.3409947156906
+'CNNRegressionRGB': 588.0011458396912
+'CNNRegression': 636.2727570533752
+
+'HybridRegressionRGB3Image': 208.11180497519672
+
+'MlpRegression3Images': 539.1068982481956
+'MlpRegressionRGB3Images': 544.0295984148979
+'MlpRegressionRGB': 671.7009880542755
+'MlpRegression': 669.7959775924683
+
+'RNNRegression3Image': 525.0023873746395
+'RNNRegressionRGB3Image': 507.47583746910095
+'RNNRegressionRGB': 712.5409376621246
+'RNNRegression': 662.8483831882477
+{, , , , , , , , , , , }
+

@@ -1,0 +1,38 @@
+Test Set...
+
+CNNRegression3ImageTest 552.545574
+CNNRegressionRGB3ImageTest 550.216239
+CNNRegressionRGBTest 767.354958
+CNNRegressionTest 741.355779
+
+HybridRegressionRGB3ImageTest 241.824276
+
+MLPRegression3ImageTest 491.785376
+MLPRegressionRGB3ImageTest 468.649614
+MLPRegressionRGBTest 685.575842
+MLPRegressionTest 730.682439
+
+RNNRegression3ImageTest 573.045144
+RNNRegressionRGB3ImageTest 638.419303
+RNNRegressionRGBTest 817.677267
+RNNRegressionTest 840.940099
+
+
+Validation
+
+CNNRegression3ImageTest 608.023024
+CNNRegressionRGB3ImageTest 592.285176
+CNNRegressionRGBTest 840.312397
+CNNRegressionTest 817.630555
+
+HybridRegressionRGB3ImageTest 289.378984
+
+MLPRegression3ImageTest 571.594070
+MLPRegressionRGB3ImageTest 524.723304
+MLPRegressionRGBTest 806.087778
+MLPRegressionTest 848.526098
+
+RNNRegression3ImageTest 603.419587
+RNNRegressionRGB3ImageTest 683.311557
+RNNRegressionRGBTest 871.471005
+RNNRegressionTest 908.959550
